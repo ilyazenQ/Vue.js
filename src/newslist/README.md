@@ -1,4 +1,4 @@
-# Vue constructor
+# 06-vue-components
 
 ## Project setup
 ```
